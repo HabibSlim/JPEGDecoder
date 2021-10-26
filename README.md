@@ -3,7 +3,7 @@
     JPEG Decoder
 </h1>
 
-[![PyTorch](https://img.shields.io/badge/C--99-red?logo=C&logoColor=white)](https://pytorch.org/)
+[![C99](https://img.shields.io/badge/C--99-red?logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C99)
 
 \[[Specification](./docs/itu-t81.pdf)\]
 
